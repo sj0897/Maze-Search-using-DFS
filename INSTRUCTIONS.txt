@@ -1,0 +1,23 @@
+This file gives instruction on how to run the program for RWA2_11_2
+
+1> Open a terminal and navigate to the directory where micromouse simulator has been downloaded from github.
+
+2> Run the simulator using command"$ ./mms" on terminal. 
+
+3> Select any maze that you want.
+
+4>Create a new mouse and name it.
+
+5> In the directory enter the path of the project. It should look something like this"/home/<YOUR-PC-NAME>/<DIRECTORY-WHERE-PROJECT-IS-STORED>/RWA2_11_2/project_rwa2
+
+6> In Build command, enter - "g++ src/main.cpp src/api.cpp src/mouse.cpp src/node.cpp"
+
+7> In Run command, enter - "./a.out"
+
+8> Click OK
+
+9>Click Build
+
+10>Click Run
+
+11> Enjoy the simulation, adjust speed in the sliding bar as required.
